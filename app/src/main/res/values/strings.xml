@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Playlist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="get_free">Get Free</string>
+    <string name="lana_del_rey">Lana Del Rey</string>
+</resources>
